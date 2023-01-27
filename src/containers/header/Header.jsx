@@ -17,10 +17,11 @@ function Header() {
           <img src={people} alt="people image" />
           <p>5 Million people have requested access</p>
         </div>
-        <div className="header-image">
+        
+      </div>
+      <div className="header-image">
           <img src={ai} alt="ai image" />
         </div>
-      </div>
     </div>
   )
 }
