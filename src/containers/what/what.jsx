@@ -8,7 +8,7 @@ function whatGPT3() {
         <Feature/>
       </div>
       <div className="what-heading">
-        <h1 className="gradient-text">The possibilities are beyond your imagination</h1>
+        <h1 className="gradient__text">The possibilities are beyond your imagination</h1>
         <p>Explore the library</p>
       </div>
       <div className="what-container">
